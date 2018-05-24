@@ -27,3 +27,10 @@ compress_html: # - http://jch.penibelst.de/
 port: 4000
 host: 0.0.0.0
 safe: false
+
+# Enable one of these styles by removing #
+#style: styles-2
+style: styles-3
+#style: styles-4
+#style: styles-5
+#style: styles-6
